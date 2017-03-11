@@ -1,0 +1,50 @@
+//Counselling Services in Vancouver
+// {"ResourceType": "name of servivce", "address", "location:" longitutde & latitude, webURL, opening hours, phone number, languages offered??}
+
+{"Counselling": [
+  {
+    "name": "Vancouver Association for Survivors of Torture",
+    "address": "2610 Victoria Dr, Vancouver, BC V5N 4L2",
+    "location": [49.261214, -123.065483],
+    "website" : "http://vast-vancouver.ca/",
+    "phone": "(604) 255-1881"},
+
+  {
+    "name": "Vancouver & Lower Mainland Multicultural Family Support Services Society",
+    "address": "4980 Kingsway,Ste 306, Burnaby, BC V5H 4K7",
+    "location": [49.225835, -122.992391],
+    "website" : "http://vvlmfss.ca/",
+    "phone": "(604) 436-1025"},
+
+  {
+    "name": "DIVERSEcity Community Resources Society",
+    "address": "13455 76 Ave, Surrey, BC V3W 2W3",
+    "location": [49.141238, -122.849290],
+    "website" : "http://www.dcrs.ca/",
+    "phone": "(604) 597-0205"},
+
+  {
+    "name": "Battered Women's Support Services",
+    "address": "1092 Seymour St, Vancouver, BC V6B 1B4",
+    "location": [49.141238, -122.849290],
+    "website" : "http://bwss.org/",
+    "phone": "(604) 687-0770"},
+
+
+  {
+    "name": "Immigrant Services Society of BC",
+    "address": "2610 Victoria Dr, Vancouver, BC V5N 4L2",
+    "location": [49.141238, -122.849290],
+    "website" : "http://issbc.org/",
+    "phone": "(604) 684-2561"
+
+  }
+
+  ]
+}
+
+
+
+
+
+
