@@ -38,7 +38,53 @@
     "website" : "http://issbc.org/",
     "phone": "(604) 684-2561"
 
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "1134 Burrard St, Vancouver, BC V6Z 2E3",
+    "location": [49.279609, -123.127820],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 731-4951"
+
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "1193 1193 Kingsway, Vancouver, BC V5V 3C9",
+    "location": [49.252528, -123.080243],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 874-2938"
+
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "201 – 1638 E Broadway, Vancouver, BC V5N 1W1",
+    "location": [49.262160, -123.070940],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 731-4951"
+
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "Fraser St, Vancouver, BC V5V 4E5",
+    "location": [49.248379, -123.090142],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 875-6277"
+
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "321 Sixth St, New Westminster, BC V3L 3A7",
+    "location": [49.209454, -122.915419],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 525-9144"
+
   }
+  
 
   ]
 }
