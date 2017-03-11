@@ -1,0 +1,22 @@
+{"Educational": [
+
+  {
+    "name": "MOSAIC - Multilingual Orientation Service Association for Immigrant Communities",
+    "address": "7009 Kingsway, Burnaby, British Columbia, V5E 1E5",
+    "location": [49.218638, -122.959105],
+    "website" : "http://mosaicbc.org/",
+    "phone": "(604) 636-0120",
+    "offered": ["language", "job search"]
+  },
+
+  {
+    "name": "Immigrant Services Society of BC",
+    "address": "200-620 Royal Avenue, New Westminster, British Columbia, V3M 1J2",
+    "location": [49.204927, -122.911497],
+    "website" : "http://issbc.org/",
+    "phone": "(604) 522-5902",
+    "offered": ["language", "job search"]
+  }
+
+]
+}
